@@ -1,5 +1,5 @@
 {
-    "name": "phpjuice/paypal-checkout-sdk",
+    "name": "wartw89/paypal-checkout-sdk",
     "description": "PayPal's PHP SDK for Checkout REST APIs",
     "keywords": [
         "phpjuice",
@@ -19,8 +19,8 @@
     "require": {
         "php": "^7.4|^8.0|^8.1",
         "ext-json": "*",
-        "brick/money": "^0.5.2",
-        "phpjuice/paypal-http-client": "^1.0"
+        "wartw89/money": "^v1",
+        "wartw89/paypal-http-client": "^v1"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^3.4",
